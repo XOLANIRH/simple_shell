@@ -190,12 +190,12 @@ Example:
 
 $ ./hsh
 $ setenv NAME Holberton
-$ unsetenv NAME
-$ echo $NAME
+$ unsetenv NAME     
+$ echo $NAME      
 
 $
-Contributors (Authors)
-Amos chibueze <AmosLucky>
-XOLANI Mbambo <XOLANIRH>
-More information
+Contributors (Authors)       
+Amos chibueze <AmosLucky>      
+XOLANI Mbambo <XOLANIRH>    
+More information        
 hsh is a simple shell unix command interpreter that is part of the holberton low level programming module at Holberton School and is intended to emulate the basics sh shell. All the information given in this README is based on the hsh and bash man (1) pages.
